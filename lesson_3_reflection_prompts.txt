@@ -6,12 +6,14 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Because pull changes manually makes you have enough time to review your code.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks: sends the repository from other hithub to your own.
+    Clones: download the repository from your hithub to your local computer.
+    Branches: help you change the repository without changing the master.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
